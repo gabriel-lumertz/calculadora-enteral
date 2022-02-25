@@ -1,0 +1,602 @@
+[
+    {
+        "idade": "1",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "2",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "3",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "4",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "5",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "6",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "7",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "8",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "9",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "10",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "11",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "12",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "13",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "14",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "15",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "16",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "17",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "18",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "19",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "20",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "21",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "22",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "23",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "24",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "25",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "26",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "27",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "28",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "29",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "30",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "31",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "32",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "33",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "34",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "35",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "36",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "37",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "38",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "39",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "40",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "41",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "42",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "43",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "44",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "45",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "46",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "47",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "48",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "49",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "50",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "51",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "52",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "53",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "54",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "55",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "56",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "57",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "58",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "59",
+        "homem": "24.9",
+        "mulher": "24.9"
+    },
+    {
+        "idade": "60",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "61",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "62",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "63",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "64",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "65",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "66",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "67",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "68",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "69",
+        "homem": "24.3",
+        "mulher": "26.5"
+    },
+    {
+        "idade": "70",
+        "homem": "25.1",
+        "mulher": "26.3"
+    },
+    {
+        "idade": "71",
+        "homem": "25.1",
+        "mulher": "26.3"
+    },
+    {
+        "idade": "72",
+        "homem": "25.1",
+        "mulher": "26.3"
+    },
+    {
+        "idade": "73",
+        "homem": "25.1",
+        "mulher": "26.3"
+    },
+    {
+        "idade": "74",
+        "homem": "25.1",
+        "mulher": "26.3"
+    },
+    {
+        "idade": "75",
+        "homem": "23.9",
+        "mulher": "26.1"
+    },
+    {
+        "idade": "76",
+        "homem": "23.9",
+        "mulher": "26.1"
+    },
+    {
+        "idade": "77",
+        "homem": "23.9",
+        "mulher": "26.1"
+    },
+    {
+        "idade": "78",
+        "homem": "23.9",
+        "mulher": "26.1"
+    },
+    {
+        "idade": "79",
+        "homem": "23.9",
+        "mulher": "26.1"
+    },
+    {
+        "idade": "80",
+        "homem": "23.7",
+        "mulher": "25.5"
+    },
+    {
+        "idade": "81",
+        "homem": "23.7",
+        "mulher": "25.5"
+    },
+    {
+        "idade": "82",
+        "homem": "23.7",
+        "mulher": "25.5"
+    },
+    {
+        "idade": "83",
+        "homem": "23.7",
+        "mulher": "25.5"
+    },
+    {
+        "idade": "84",
+        "homem": "23.7",
+        "mulher": "25.5"
+    },
+    {
+        "idade": "85",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "86",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "87",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "88",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "89",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "90",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "91",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "92",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "93",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "94",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "95",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "96",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "97",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "98",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "99",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "100",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "101",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "102",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "103",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "104",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "105",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "106",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "107",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "108",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "109",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "110",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "111",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "112",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "113",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "114",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "115",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "116",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "117",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "118",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "119",
+        "homem": "23.1",
+        "mulher": "23.6"
+    },
+    {
+        "idade": "120",
+        "homem": "23.1",
+        "mulher": "23.6"
+    }
+]

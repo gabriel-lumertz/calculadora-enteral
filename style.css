@@ -1,0 +1,9 @@
+:root {
+    --light: #fff;
+    --dark: #000;
+    margin: 0 auto;
+}
+
+body {
+    background: var(--light);
+}

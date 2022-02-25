@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculo Enteral</title>
+</head>
+<body>
+    <h1>Cálculo Enterais</h1>
+    
+        <form>
+            <input type="radio" name="sexo" id="man" value="1" checked>
+            <label for="man">Homen</label>
+            <input type="radio" name="sexo" id="woman" value="2">
+            <label for="woman">Mulher</label>
+        </form>
+        <input id="idade" type="text" placeholder="Idade">
+        <input id="peso" type="text" placeholder="Peso atual">
+        <input id="altura" type="text" placeholder="Altura">
+        <input type="button" value="Calcular" onclick="calcular()">
+    
+    <div id="imc"></div>
+    <div id="pesoideal"></div>
+    <footer>Desenvolvido por Gabriel Lumertz</footer>
+    <script src="./app.js"></script>
+</body>
+</html>
